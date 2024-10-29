@@ -34,12 +34,12 @@ monthly-budget-form/
    ```
 3. Compile the program using a C++ compiler (e.g., g++):
    ```bash
-   g++ main.cpp -o monthly-budget-form
+   g++ main.cpp -o Monthly-Budget-Form
    ```
 
 4. Run the executable:
    ```bash
-   ./monthly-budget-form
+   ./Monthly-Budget-Form
    ```
 
 ## Usage
